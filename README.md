@@ -8,3 +8,11 @@ python 3.x; tensorflow 1.0+; gym; numpy and matplotlib.
 
 Notice: gym environment should be modified to register new environmental ID. 
 
+Results:
+![image](https://github.com/silentobservers/Regularization-in-DQN/blob/master/CartPole/results/50000c.svg)
+![image](https://github.com/silentobservers/Regularization-in-DQN/blob/master/CartPole/results/75000c.svg)
+![image](https://github.com/silentobservers/Regularization-in-DQN/blob/master/CartPole/results/100000.svg)
+![image](https://github.com/silentobservers/Regularization-in-DQN/blob/master/MountainCar/results/50000m.svg)
+![image](https://github.com/silentobservers/Regularization-in-DQN/blob/master/MountainCar/results/75000m.svg)
+![image](https://github.com/silentobservers/Regularization-in-DQN/blob/master/MountainCar/results/100000m.svg)
+![image](https://github.com/silentobservers/Regularization-in-DQN/blob/master/MountainCar/results/200000m.svg)
